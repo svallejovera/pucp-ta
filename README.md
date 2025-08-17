@@ -7,8 +7,8 @@
 
 ## Código para el curso:
 - [Parte I: Cómo utilizar Fine-Tuned Models](https://colab.research.google.com/drive/10chbXKcyN3zNHURNWGA8-JuUc7cfkyDZ?usp=sharing)
-- [Parte II: Fine-Tuning un Model](https://colab.research.google.com/drive/1qFBTJzRlSGbhzTX425fMkuYlQ93y9Myq?usp=sharing)
-- [Parte III: Further Pre-Training un Model](https://colab.research.google.com/drive/1Hn7AwA4X_wwl2dDtb5IZtB4wN4eraxO9?usp=sharing)
+- [Parte II: Fine-tuning un modelo](https://colab.research.google.com/drive/1qFBTJzRlSGbhzTX425fMkuYlQ93y9Myq?usp=sharing)
+- [Parte III: Entrenar más un modelo pre-entrenado](https://colab.research.google.com/drive/1Hn7AwA4X_wwl2dDtb5IZtB4wN4eraxO9?usp=sharing)
 - [Parte IV: Cómo utilizar LLMs](https://colab.research.google.com/drive/1ESgD35axxmokGpmfGl8RhpN8oNDRuOLi?usp=sharing)
 - [Parte V: LLMs como anotadores de texto](https://colab.research.google.com/drive/1TMrpSSwWWj_rcvtHrzGvxKncFuCQywgh?usp=sharing)
 
