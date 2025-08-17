@@ -6,11 +6,11 @@
 - [Parte III: Large Language Models](https://github.com/svallejovera/pucp-ta/blob/main/PUCP_parte_III_llm.pdf)
 
 ## Código para el curso:
-- [Parte I: Using Fine-Tuned Models](https://colab.research.google.com/drive/10chbXKcyN3zNHURNWGA8-JuUc7cfkyDZ?usp=sharing)
-- [Parte II: Fine-Tuning a Model](https://colab.research.google.com/drive/1qFBTJzRlSGbhzTX425fMkuYlQ93y9Myq?usp=sharing)
-- [Parte III: Further Pre-Training a Model](https://colab.research.google.com/drive/1Hn7AwA4X_wwl2dDtb5IZtB4wN4eraxO9?usp=sharing)
-- [Parte IV: Using LLMs](https://colab.research.google.com/drive/1ESgD35axxmokGpmfGl8RhpN8oNDRuOLi?usp=sharing)
-- [Parte V: LLMs as Annotators](https://colab.research.google.com/drive/1TMrpSSwWWj_rcvtHrzGvxKncFuCQywgh?usp=sharing)
+- [Parte I: Cómo utilizar Fine-Tuned Models](https://colab.research.google.com/drive/10chbXKcyN3zNHURNWGA8-JuUc7cfkyDZ?usp=sharing)
+- [Parte II: Fine-Tuning un Model](https://colab.research.google.com/drive/1qFBTJzRlSGbhzTX425fMkuYlQ93y9Myq?usp=sharing)
+- [Parte III: Further Pre-Training un Model](https://colab.research.google.com/drive/1Hn7AwA4X_wwl2dDtb5IZtB4wN4eraxO9?usp=sharing)
+- [Parte IV: Cómo utilizar LLMs](https://colab.research.google.com/drive/1ESgD35axxmokGpmfGl8RhpN8oNDRuOLi?usp=sharing)
+- [Parte V: LLMs como anotadores de texto](https://colab.research.google.com/drive/1TMrpSSwWWj_rcvtHrzGvxKncFuCQywgh?usp=sharing)
 
 ## Enlaces a papers seleccionados:
 - Timoneda, Joan C., and Sebastián Vallejo Vera. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” The Journal of Politics (2025): 87.1 000-000. [PDF](https://github.com/svallejovera/pucp-ta/blob/main/bert_jt_svv.pdf)
